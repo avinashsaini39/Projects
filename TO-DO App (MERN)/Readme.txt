@@ -1,0 +1,2 @@
+- node modules are removed due to larger file size
+- class based components are used in this project 
