@@ -4,4 +4,4 @@
 
 -client contains the admin panel
 -server contains the backend operations
--website contains the main website
+-website contains the main website(for website download the second folder)
