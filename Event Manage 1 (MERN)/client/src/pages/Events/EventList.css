@@ -1,0 +1,21 @@
+/* Additional custom CSS for responsiveness */
+@media (max-width: 576px) {
+    .ant-btn {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+
+    .ant-input-search {
+        width: 100%;
+    }
+
+    .ant-space {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+    .ant-space {
+        display: block;
+    }
+}
